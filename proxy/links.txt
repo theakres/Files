@@ -1,2 +1,3 @@
+https://github.com/theakres/Proxy/raw/main/proxies.txt
 https://github.com/Surfboardv2ray/TGProto/raw/main/proxies.txt
 https://github.com/Surfboardv2ray/TGProto/raw/main/proxies-tested.txt
