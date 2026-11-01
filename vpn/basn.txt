@@ -17,3 +17,6 @@
 
 # Microsoft
 8075
+
+# Fastly
+54113
