@@ -12,14 +12,17 @@
 # Amazon
 16509
 
+# Fastly
+54113
+
 # Google
 396982
 
 # Microsoft
 8075
 
-# Fastly
-54113
+# Oracle
+31898
 
 # Other
 4760
